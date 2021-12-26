@@ -20,7 +20,7 @@ https://azad-wolf.medium.com/latent-spaces-part-3-a-practical-introduction-to-de
 http://decode.mit.edu/projects/biked/  \
 https://arxiv.org/abs/2103.05844 \
 https://arxiv.org/abs/2010.11694  \
-https://arxiv.org/abs/1406.2661  \
+https://arxiv.org/abs/1406.2661
 
 
 
