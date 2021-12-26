@@ -1,6 +1,8 @@
 # Deep Convolutional Generative Adversarial Network (DCGAN)
 This is an implementation of DCGAN in python. The full tutorial is available on medium article.
 
+![dcgan image](bicycles.png)
+
 ## Requirements
 
 * Python >= 3.7
@@ -19,4 +21,4 @@ https://arxiv.org/abs/2010.11694
 https://arxiv.org/abs/1406.2661
 
 
-![dcgan image](bicycles.png)
+
