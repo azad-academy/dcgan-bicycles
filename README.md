@@ -13,6 +13,8 @@ This is an implementation of DCGAN in python. The full tutorial is available on 
 # The tutorial 📃
 The full tutorial if you would like to implement yourself is available on medium.
 
+https://azad-wolf.medium.com/latent-spaces-part-3-a-practical-introduction-to-deep-convolutional-generative-adversarial-8c6169bbf9b0
+
 # References 🔗
 
 http://decode.mit.edu/projects/biked/
