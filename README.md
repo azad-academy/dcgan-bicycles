@@ -19,8 +19,8 @@ https://azad-wolf.medium.com/latent-spaces-part-3-a-practical-introduction-to-de
 
 [Bicycle Dataset](http://decode.mit.edu/projects/biked/)  \
 [BIKED: A Dataset for Computational Bicycle Design with Machine Learning Benchmarks](https://arxiv.org/abs/2103.05844) \
-[Unsupervised Representation Learning by InvariancePropagation](https://arxiv.org/abs/2010.11694)  \
 [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
+[Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)  \
 
 
 
