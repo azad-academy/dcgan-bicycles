@@ -1,5 +1,5 @@
 # Deep Convolutional Generative Adversarial Network (DCGAN)
-This is an implementation of DCGAN in python. The full tutorial is available on medium article.
+This is an implementation of DCGAN in python. 
 
 ![dcgan image](bicycles.png)
 
@@ -11,9 +11,17 @@ This is an implementation of DCGAN in python. The full tutorial is available on 
 * GPU
 
 # The tutorial 📃
-The full tutorial if you would like to implement yourself is available on medium.
+
+
+On Medium:
 
 https://azad-wolf.medium.com/latent-spaces-part-3-a-practical-introduction-to-deep-convolutional-generative-adversarial-8c6169bbf9b0
+
+
+On substack:
+
+https://azadwolf.substack.com/p/a-practical-introduction-to-deep
+
 
 # References 🔗
 
