@@ -25,10 +25,10 @@ https://azadwolf.substack.com/p/a-practical-introduction-to-deep
 
 # References 🔗
 
-http://decode.mit.edu/projects/biked/  \
-https://arxiv.org/abs/2103.05844 \
-https://arxiv.org/abs/2010.11694  \
-https://arxiv.org/abs/1406.2661
+[Bicycle Dataset](http://decode.mit.edu/projects/biked/)  \
+[BIKED: A Dataset for Computational Bicycle Design with Machine Learning Benchmarks](https://arxiv.org/abs/2103.05844) \
+[Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) \
+[Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)  \
 
 
 
